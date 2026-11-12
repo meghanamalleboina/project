@@ -1,0 +1,6 @@
+{
+  "name": "NexaDS - Automated Data Science & Predictive Analytics",
+  "description": "An Extensible AI Agent for Automated Data Science and Predictive Analytics: upload datasets, detect data mistakes, run scikit-learn ML pipelines, error analysis, hyperparameter tuning, model comparison, explainable AI, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
